@@ -1,0 +1,13 @@
+C:\Users\Danielle\Desktop\Adv C# Projects\DanielleR-CPT-206-Lab-1\bin\Debug\ProductDB.mdf
+C:\Users\Danielle\Desktop\Adv C# Projects\DanielleR-CPT-206-Lab-1\bin\Debug\ProductDB_log.ldf
+C:\Users\Danielle\Desktop\Adv C# Projects\DanielleR-CPT-206-Lab-1\bin\Debug\DanielleR-CPT-206-Lab-1.exe.config
+C:\Users\Danielle\Desktop\Adv C# Projects\DanielleR-CPT-206-Lab-1\bin\Debug\DanielleR-CPT-206-Lab-1.exe
+C:\Users\Danielle\Desktop\Adv C# Projects\DanielleR-CPT-206-Lab-1\bin\Debug\DanielleR-CPT-206-Lab-1.pdb
+C:\Users\Danielle\Desktop\Adv C# Projects\DanielleR-CPT-206-Lab-1\obj\Debug\DanielleR-CPT-206-Lab-1.csproj.AssemblyReference.cache
+C:\Users\Danielle\Desktop\Adv C# Projects\DanielleR-CPT-206-Lab-1\obj\Debug\DanielleR_CPT_206_Lab_1.Form1.resources
+C:\Users\Danielle\Desktop\Adv C# Projects\DanielleR-CPT-206-Lab-1\obj\Debug\DanielleR_CPT_206_Lab_1.Properties.Resources.resources
+C:\Users\Danielle\Desktop\Adv C# Projects\DanielleR-CPT-206-Lab-1\obj\Debug\DanielleR-CPT-206-Lab-1.csproj.GenerateResource.cache
+C:\Users\Danielle\Desktop\Adv C# Projects\DanielleR-CPT-206-Lab-1\obj\Debug\DanielleR-CPT-206-Lab-1.csproj.CoreCompileInputs.cache
+C:\Users\Danielle\Desktop\Adv C# Projects\DanielleR-CPT-206-Lab-1\obj\Debug\DanielleR-CPT-206-Lab-1.exe
+C:\Users\Danielle\Desktop\Adv C# Projects\DanielleR-CPT-206-Lab-1\obj\Debug\DanielleR-CPT-206-Lab-1.pdb
+C:\Users\Danielle\Desktop\Adv C# Projects\DanielleR-CPT-206-Lab-1\obj\Debug\DanielleR_CPT_206_Lab_1.ResultsForm.resources
