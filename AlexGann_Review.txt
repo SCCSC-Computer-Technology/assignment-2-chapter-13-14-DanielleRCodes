@@ -1,0 +1,10 @@
+The interface is a neat divergence from other interfaces I've seen so far, with the user controls 
+on the right side. However, I feel like the way information is displayed on the pop-up is lacking. 
+The item code, stock on hand, and price are all useful information a user might be looking for.
+
+It would also help if the description especially and possibly also the product number searches 
+allow for partial entries using 'contains'. This would allow for more broad searches instead of 
+only getting one possible result.
+
+There are very few comments, making the code harder to follow than it probably needs to be. Error 
+messages are also nondescriptive and could use more information to help troubleshoot.
