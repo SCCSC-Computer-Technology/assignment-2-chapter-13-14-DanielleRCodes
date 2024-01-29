@@ -1,0 +1,7 @@
+Code Review for Danielle
+
+
+I was not able to run the program because of a 'downgrade' path, so I could not test the functionalities of the form and buttons, but despite that the thing that stuck out most is how clean and structured her code was. I know especially in the professional world it is a good habit to keep your code clean and remove any 'dead' code, and to add to this I would also suggest adding comments to where it is necessary. Commenting your code is also a good habit because it allows you to look back at it and understand what process you completed, but also commenting your code will give transparency to group members in a team setting. 
+
+Something that I noticed that differed her code to my code is her implementation of error catching and handling. By using try-catches it prevents the code from ending and catches any error the user inputs. However, one small thing I would sugguest is changing the message box display in the catch from 'Error!' to a descriptive message. By doing so will give the user more insight of what they did wrong, for example this requires a string input or a integer input. 
+Overall, I was impressed and liked how she kept her code neat, clean, and readable. 
