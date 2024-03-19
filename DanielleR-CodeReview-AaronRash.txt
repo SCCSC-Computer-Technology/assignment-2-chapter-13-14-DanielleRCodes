@@ -1,0 +1,14 @@
+DenielleR code review by Aaron Rash
+
+I appreciate how organized your form is, grouping and labeling problem 4/5/6. It looks cleaner than mine for sure.
+The controls (buttons,textboxes etc) have good names, making it easy to read and understand, however I would like to see some more commenting on the code.
+Your code was clean, and easy to understand, but I think even just a quick description/explaination at the start of a method would go a long way.
+
+I thought the choice to have the search results be displayed in a popup box/new form was interesting.
+While I chose to directly update the datagrid, I can see situations where your decision would be useful, and I had not thought of that implementation.
+
+As for critique, you could be using '.contains' instead of '==' when doing linq to sql searches (line 89)
+that way you can search 'oxford' and get results instead of having to search 'oxford cloth shirt'
+its effectively a 'LIKE' query
+
+Otherwise good job
